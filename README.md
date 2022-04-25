@@ -1,5 +1,5 @@
 <h1>Hello, ladies and gentleman ✋</h1>
-<h2> Saca só:</h2><br>
+<h2> Saca só:</h2>
 <h3>- Meu nome é Eduardo, prazer.</h3>
 <h3>- Atualmente eu sou um estudante do IFSP Campus Birigui.</h3>
 <h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3><br>
