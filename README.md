@@ -17,7 +17,6 @@
 </div>
 <p> </p>
 <h1>Stats</h1><br>
-<p> </p>
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosXSU&theme=blue-green)
 
