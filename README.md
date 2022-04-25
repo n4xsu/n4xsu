@@ -4,6 +4,8 @@
 <h3>- Discord: bazy#9798.</h3>
 <h3>- Atualmente estou estudando no IFSP Campus Birigui</h3>
 <h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3>
+<h3>- Pronomes: Obrigado OT1500 por me seguir no GitHub!</h3>
+
 <h1>Redes sociais e esse blá blá todo</h1>
 <div style="display: inline-block"><br>
     <a href="https://steamcommunity.com/id/topperson">
