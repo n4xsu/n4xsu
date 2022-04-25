@@ -20,7 +20,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosXSU&theme=blue-green)
 
-<p> </p>
+
 <h1>avorite programming language: C++</h1><br>
 
  ![Blog](https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382)(imagem roubada de um maluco no próprio GitHub)
