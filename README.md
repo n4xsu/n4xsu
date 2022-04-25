@@ -1,7 +1,9 @@
 <h1>Hello, ladies and gentleman ✋</h1>
-- Meu nome é Eduardo, prazer.
-- Atualmente eu sou um estudante do IFSP Campus Birigui.
-- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.
+<h2> Saca só:</h2><br>
+<p>- Meu nome é Eduardo, prazer.</p>
+<p>- Atualmente eu sou um estudante do IFSP Campus Birigui.</p>
+<p>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</p><br>
+<h1>Redes sociais e esse blá blá todo</h1>
 
 ### Redes sociais e esse blá blá todo
  
