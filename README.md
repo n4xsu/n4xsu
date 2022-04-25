@@ -2,9 +2,9 @@
 <h2> Saca só:</h2>
 <h3>- Meu nome é Eduardo, prazer.</h3>
 <h3>- Atualmente eu sou um estudante do IFSP Campus Birigui.</h3>
-<h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3><br>
+<h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3>
 <h1>Redes sociais e esse blá blá todo</h1>
-<div style="display: inline-block">
+<div style="display: inline-block"><br>
     <a href="https://steamcommunity.com/id/topperson">
         <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     </a> 
