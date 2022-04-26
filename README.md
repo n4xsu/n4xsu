@@ -20,6 +20,6 @@
 </div>
 <p> </p>
 
-<h1 style="color:pink">caffeine and anime titties</h1><br>
+<h1 style="color:pink;">caffeine and anime titties</h1><br>
 
  ![Blog](https://pbs.twimg.com/media/FJFn8cFXsAELk6_?format=jpg&name=medium)(https://gamersupps.gg/)
