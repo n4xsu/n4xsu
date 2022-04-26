@@ -20,6 +20,6 @@
 </div>
 <p> </p>
 
-<h1>Favorite programming language: C++</h1><br>
+<h1>caffeine and anime titties</h1><br>
 
- ![Blog](https://pbs.twimg.com/media/FJFn8cFXsAELk6_?format=jpg&name=medium)(imagem roubada de um maluco no próprio GitHub)
+ ![Blog](https://pbs.twimg.com/media/FJFn8cFXsAELk6_?format=jpg&name=medium)(https://gamersupps.gg/)
