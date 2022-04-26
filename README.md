@@ -3,7 +3,7 @@
 <h3>- Meu nome é Eduardo, prazer.</h3>
 <h3>- Discord: bazy#9798.</h3>
 <h3>- Atualmente estou estudando no IFSP Campus Birigui.</h3>
-<h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3><br>
+<h3>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h3>
 
 <h1>Redes sociais e esse blá blá todo</h1>
 <div style="display: inline-block"><br>
