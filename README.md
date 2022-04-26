@@ -19,10 +19,6 @@
     </a>
 </div>
 <p> </p>
-<h1>Stats</h1><br>
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosXSU&theme=blue-green)
-
 
 <h1>Favorite programming language: C++</h1><br>
 
