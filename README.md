@@ -8,7 +8,7 @@
 
 <h1>Redes sociais e esse blá blá todo</h1>
 <div style="display: inline-block"><br>
-    <a href="https://steamcommunity.com/id/topperson">
+    <a href="https://steamcommunity.com/id/giovinezza">
         <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
     </a> 
     <a href="https://www.twitch.tv/polenstadtchen">
