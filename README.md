@@ -1,7 +1,7 @@
 <h1>Hello, ladies and gentleman ✋</h1>
 <h2> Saca só:</h2>
 <h4>- Meu nome é Eduardo, prazer.</h4>
-<h4>- Discord: bazy#9798.</h4>
+<h4>- Discord: cheeseball69#7311.</h4>
 <h4>- Atualmente estou estudando no IFSP Campus Birigui.</h4>
 <h4>- Pronomes: Panzerkampfwagen VI Tiger II / Scouter.</h4>
 <p> </p>
