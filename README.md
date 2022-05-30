@@ -22,5 +22,5 @@
 
 <h1>wise comments here</h1><br> 
     <a href="https://twitter.com/N4XSU/">
-        <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1821144622393846116/4F4AD90ACEE0E0727F9974AA27F17558EB2EF70A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+        <img align="center" src="https://i.ytimg.com/vi/0hFAwxffWQU/maxresdefault.jpg"/>
     </a> 
