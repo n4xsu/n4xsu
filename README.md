@@ -20,7 +20,7 @@
 </div>
 <p> </p>
 
-<h1>caffeine and anime titties</h1><br> 
+<h1>wise comments here</h1><br> 
     <a href="https://gamersupps.gg/">
         <img align="center" src="https://i.ytimg.com/vi/0hFAwxffWQU/maxresdefault.jpg"/>
     </a> 
