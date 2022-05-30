@@ -21,6 +21,6 @@
 <p> </p>
 
 <h1>wise comments here</h1><br> 
-    <a href="https://gamersupps.gg/">
+    <a href="https://twitter.com/N4XSU/">
         <img align="center" src="https://i.ytimg.com/vi/0hFAwxffWQU/maxresdefault.jpg"/>
     </a> 
