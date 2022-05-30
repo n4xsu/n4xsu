@@ -22,5 +22,5 @@
 
 <h1>caffeine and anime titties</h1><br> 
     <a href="https://gamersupps.gg/">
-        <img align="center" src="https://pbs.twimg.com/media/FJFn8cFXsAELk6_?format=jpg&name=medium"/>
+        <img align="center" src="[https://pbs.twimg.com/media/FJFn8cFXsAELk6_?format=jpg&name=medium](https://pbs.twimg.com/media/FT9yJhiWAAAjXI9?format=jpg&name=large)"/>
     </a> 
