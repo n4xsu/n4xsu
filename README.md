@@ -22,5 +22,5 @@
 
 <h1>#CultCrew</h1><br> 
     <a href="https://twitter.com/N4XSU/">
-        <img align="center" src="https://i.ytimg.com/vi/0hFAwxffWQU/maxresdefault.jpg"/>
+        <img align="center" src="https://pbs.twimg.com/media/Clk6qxEUYAImnjT.jpg"/>
     </a> 
