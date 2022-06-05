@@ -20,7 +20,7 @@
 </div>
 <p> </p>
 
-<h1>Sim. Novos copos foram lançados.</h1><br> 
+<h1>Sim; novos copos foram lançados.</h1><br> 
     <a href="https://gamersupps.gg/">
         <img align="center" src="https://wallpapercave.com/wp/wp3821385.jpg"/>
     </a> 
