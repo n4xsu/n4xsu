@@ -22,5 +22,5 @@
 
 <h1>Sim; novos copos foram lançados.</h1><br> 
     <a href="https://gamersupps.gg/">
-        <img align="center" src="https://wallpapercave.com/wp/wp3821385.jpg"/>
+        <img align="center" src="https://i.redd.it/8njywepwkfh71.jpg"/>
     </a> 
