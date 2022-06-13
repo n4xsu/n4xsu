@@ -22,5 +22,5 @@
 
 <h1>Almôndegas</h1><br> 
     <a href="https://www.youtube.com/watch?v=L8GJWBWWXMc&t=16s">
-        <img align="center" src="https://i.redd.it/8njywepwkfh71.jpg"/>
+        <img align="center" src="https://i.redd.it/52j775lsqut71.jpg"/>
     </a> 
