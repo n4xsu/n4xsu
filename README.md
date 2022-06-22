@@ -33,11 +33,6 @@
 <li>⚡ Fun fact </b>I know how to speak portuguese very well.</b>
 </li>
 
-
-<br>
-
-<p align="right"><a href = "https://www.youtube.com/watch?v=e4RfivkKKJA"><img src = "https://www.youtube.com/watch?v=e4RfivkKKJA" width = "170" align = "left"/></a>
-
 </div>
 <br>
 
@@ -71,8 +66,4 @@
 <br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-
-<br> 
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J3xLe1988B3lx0x2E6&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 <hr>
