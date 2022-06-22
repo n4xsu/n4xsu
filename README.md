@@ -22,5 +22,5 @@
 
 <h1>Almôndegas</h1><br> 
     <a href="https://www.youtube.com/watch?v=L8GJWBWWXMc&t=16s">
-        <img align="center" src="https://i.redd.it/52j775lsqut71.jpg"/>
+        <img align="center" src="https://vocesabianime.com/wp-content/uploads/2020/09/ReZero-E-Se-Ayamatsu-o-E-Se-do-Orgulho-4-1000x563.jpg"/>
     </a> 
