@@ -64,5 +64,5 @@
 </div>  
 <br>
 <div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">Thank you for reading</h2>
 <hr>
