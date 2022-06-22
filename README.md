@@ -27,7 +27,6 @@
 <li>
 <b>Favourite song:</b> Chocolate Groove
 </li>
-<li>
 <li>🌱 I’m currently learning <b> Kali Linux.</b>
 </li>
 <li>⚡ Fun fact </b>I know how to speak portuguese very well.</b>
