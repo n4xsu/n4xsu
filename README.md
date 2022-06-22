@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://tenor.com/view/mgr-metal-gear-rising-senator-armstrong-armstrong-raiden-gif-23575652">
+<img src="https://c.tenor.com/KS-WWi4O4T0AAAAd/mgr-metal-gear-rising.gif">
 </div>
 <br>
 
