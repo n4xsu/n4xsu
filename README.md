@@ -9,7 +9,7 @@
 
 <h2 align="center"> About me</h2>
 <div>
-<img src="https://tenor.com/view/chad-gif-24047879" align="right" width="400" >
+<img src="https://c.tenor.com/yPUAJMwL2uwAAAAC/gigachad.gif" align="right" width="400" >
 <li>
 <b>Name:</b> Ed Canabarra</li>
 <li>
