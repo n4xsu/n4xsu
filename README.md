@@ -37,10 +37,10 @@
 
 
 <div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
+<h2 align="center"> Knowledge </h2>
 </div>
 <div align = "center">
-<p align = "justify">I know somethings.<br></p>
+<p align = "center">I know somethings.<br></p>
 </div>
 
 <br>
