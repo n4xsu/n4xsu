@@ -11,7 +11,7 @@
 <div>
 <img src="https://c.tenor.com/yPUAJMwL2uwAAAAC/gigachad.gif" align="right" width="350" >
 <li>
-<b>Name:</b> Ed Canabarra</li>
+<b>Name:</b> Carlos</li>
 <li>
 <b>Favourite Anime:</b> RE:Zero
 </li>
