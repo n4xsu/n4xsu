@@ -1,8 +1,8 @@
-<h1 align="center">Hi there I'm Cana ✋</h1>
+<h1 align="center">Hi there!</h1>
 <body>
 <br>
 <div align="center">
-<img src="https://c.tenor.com/1BPoG9fHIkwAAAAd/rezero-oboreru.gif">
+<img src="https://media.gazetadopovo.com.br/2019/12/26115543/ed0ad64d0b78dd8e6e6e699c6ba71282-full-660x372.jpg">
 </div>
 <br>
 
