@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.gazetadopovo.com.br/2019/12/26115543/ed0ad64d0b78dd8e6e6e699c6ba71282-full-660x372.jpg">
+<img src="https://i.redd.it/8njywepwkfh71.jpg">
 </div>
 <br>
 
