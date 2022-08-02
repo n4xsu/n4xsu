@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://c.tenor.com/9Cxp0u8jEjMAAAAM/meme-franzj.gif" width="350" >
+<img src="https://pbs.twimg.com/media/FVVSVzQXwAER0nV?format=png&name=small" width="350" >
 </div>
 <br>
 
