@@ -1,8 +1,8 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">vazou euuuu</h1>
 <body>
 <br>
 <div align="center">
-<img src="https://pbs.twimg.com/media/FXZIN57XkAEr4K2?format=jpg&name=900x900">
+<img src="https://pbs.twimg.com/media/FVn2w69X0AECaam?format=jpg&name=900x900">
 </div>
 <br>
 
