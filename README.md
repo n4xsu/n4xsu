@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://pbs.twimg.com/media/FYiZ91hWIAQy47T?format=png&name=small">
+<img src="https://pbs.twimg.com/media/FXavAsvXgAAt6E5?format=jpg&name=900x900">
 </div>
 <br>
 
