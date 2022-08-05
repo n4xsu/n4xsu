@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Be happy (yes, it's my hobby).
 </li>
 <li>
-<b>Favourite song:</b> Hip To Be Square
+<b>Favourite song:</b> Hip To Be Square.
 </li>
 <li>I’m currently learning <b> Kali Linux.</b>
 </li>
