@@ -22,7 +22,7 @@
 <b>Gender:</b> Panzerkampfwagen VI Tiger II.
 </li>
 <li>
-<b>Hobbys:</b> Be happy (yes, it's my hobby).
+<b>Hobbys:</b> Kill people.
 </li>
 <li>
 <b>Favourite song:</b> Hip To Be Square.
