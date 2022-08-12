@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://c.tenor.com/xZmgFtFjDiIAAAAC/ayex-ayexmadeline.gif" width="500" >
+<img src="https://c.tenor.com/xZmgFtFjDiIAAAAC/ayex-ayexmadeline.gif" width="450" >
 </div>
 <br>
 
