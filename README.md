@@ -33,15 +33,6 @@
 </li>
 
 </div>
-<br>
-
-
-<div>
-<h2 align="center"> Knowledge </h2>
-</div>
-<div align = "center">
-<p align = "center">I know somethings.<br></p>
-</div>
 
 <br>
 
