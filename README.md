@@ -19,7 +19,7 @@
 <b>Loves:</b>Videogames, history and math.
 </li>
 <li>
-<b>Gender:</b> Panzerkampfwagen VI Tiger II/Scouter.
+<b>Gender:</b> Panzerkampfwagen VI Tiger II.
 </li>
 <li>
 <b>Hobbys:</b> Be happy (yes, it's my hobby).
