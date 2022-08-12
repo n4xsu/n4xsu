@@ -13,7 +13,7 @@
 <li>
 <b>Name:</b> Carlos</li>
 <li>
-<b>Favourite Anime:</b> RE:Zero
+<b>Favourite Anime:</b> You.
 </li>
 <li>
 <b>Loves:</b>Videogames, history and math.
