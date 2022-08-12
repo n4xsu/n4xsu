@@ -56,7 +56,7 @@
 </a>
 <a href="https://soundcloud.com/n4xsu" target="_blank">
 <img src=https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://c.tenor.com/kpOec05WydYAAAAM/what-a-chad-gloco.gif" width = "400"/>
+</a>  <br><img src = "https://c.tenor.com/H-0h8rwT4vQAAAAi/guilty-gear-ino.gif" width = "400"/>
 </div>  
 
 
