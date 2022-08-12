@@ -9,7 +9,7 @@
 
 <h2 align="center"> About me</h2>
 <div>
-<img src="https://c.tenor.com/ut74LM8pWjcAAAAd/sam-jetstream-samuel-rodrigues.gif" align="right" width="350" >
+<img src="https://c.tenor.com/ut74LM8pWjcAAAAd/sam-jetstream-samuel-rodrigues.gif" align="right" width="450" >
 <li>
 <b>Name:</b> Carlos</li>
 <li>
