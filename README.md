@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://c.tenor.com/UCmyM2B-TRcAAAAi/metal-gear-rising-jetstream-sam.gif" width="350" >
+<img src="https://c.tenor.com/UCmyM2B-TRcAAAAi/metal-gear-rising-jetstream-sam.gif" width="450" >
 </div>
 <br>
 
