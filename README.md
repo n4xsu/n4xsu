@@ -9,7 +9,7 @@
 
 <h2 align="center"> About me</h2>
 <div>
-<img src="https://pbs.twimg.com/media/FHDvkyHX0AI_-_U.jpg" align="right" width="220" >
+<img src="https://pbs.twimg.com/media/FHDvkyHX0AI_-_U.jpg" align="right" width="210" >
 <li>
 <b>Name:</b> Carlos</li>
 <li>
