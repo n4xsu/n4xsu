@@ -9,7 +9,7 @@
 
 <h2 align="center"> About me</h2>
 <div>
-<img src="https://49d0798c72.clvaw-cdnwnd.com/30f74f6a36799165f8024223ad61e71a/200000124-8e1d68f12e/texto%20--%20Mocidade%20Portuguesa.jpg?ph=49d0798c72" align="right" width="210" >
+<img src="https://49d0798c72.clvaw-cdnwnd.com/30f74f6a36799165f8024223ad61e71a/200000124-8e1d68f12e/texto%20--%20Mocidade%20Portuguesa.jpg?ph=49d0798c72" align="right" width="150" >
 <li>
 <b>Name:</b> Carlos</li>
 <li>
