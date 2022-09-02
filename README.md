@@ -47,7 +47,7 @@
 </a>
 <a href="https://soundcloud.com/n4xsu" target="_blank">
 <img src=https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://c.tenor.com/H-0h8rwT4vQAAAAi/guilty-gear-ino.gif" width = "300"/>
+</a>  <br><img src = "https://live.staticflickr.com/2879/12115914393_6ee9bc1862_b.jpg" width = "300"/>
 </div>  
 
 
