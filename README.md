@@ -16,7 +16,7 @@
 <b>Favourite Anime:</b> You.
 </li>
 <li>
-<b>Loves:</b>Videogames, history and math.
+<b>Loves:</b> Videogames, history and math.
 </li>
 <li>
 <b>Gender:</b> Panzerkampfwagen VI Tiger II.
